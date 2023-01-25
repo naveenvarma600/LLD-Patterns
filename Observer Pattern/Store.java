@@ -6,14 +6,7 @@ import LLD.Concept_And_Coding.L3_Observer_Pattern.Observer.EmailAlertObserverImp
 import LLD.Concept_And_Coding.L3_Observer_Pattern.Observer.MobileAlertObserverImpl;
 import LLD.Concept_And_Coding.L3_Observer_Pattern.Observer.NotificationAlertObserver;
 
-/**
- * Project: DS_Algo
- * Package: LLD.Concept_And_Coding.L3_Observer_Pattern
- * <p>
- * User: piyushbajaj
- * Date: 16/01/23
- * Time: 1:12 pm
- */
+
 public class Store {
     public static void main(String[] args) {
         StocksObservable iphoneStockObservable = new IphoneObservableImpl();

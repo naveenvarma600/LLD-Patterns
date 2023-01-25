@@ -1,8 +1,6 @@
 package LLD.OOPBasics.Encapsulation;
 
-/**
- * Created by bajajp on 24 Jun, 2022
- */
+
 public class TestEncapsulation {
     public static void main(String[] args) {
         Encapsulate obj = new Encapsulate();

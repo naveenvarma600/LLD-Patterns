@@ -1,8 +1,6 @@
 package LLD.OOPBasics.Inheritance;
 
-/**
- * Created by bajajp on 24 Jun, 2022
- */
+
 public class Team extends Sponsor {
     private final String teamName = "Barcelona";
 

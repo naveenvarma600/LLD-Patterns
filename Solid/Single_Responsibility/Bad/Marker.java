@@ -1,13 +1,6 @@
 package LLD.Concept_And_Coding.L1_Solid.Single_Responsibility.Bad;
 
-/**
- * Project: DS_Algo
- * Package: LLD.Concept_And_Coding.SOLID.Single_Responsibility
- * <p>
- * User: piyushbajaj
- * Date: 13/01/23
- * Time: 5:40 pm
- */
+
 public class Marker {
     public String name;
     public String color;

@@ -3,12 +3,6 @@ package LLD.Concept_And_Coding.L1_Solid.Open_Closed.Bad;
 import LLD.Concept_And_Coding.L1_Solid.Single_Responsibility.Good.Invoice;
 
 /**
- * Project: DS_Algo
- * Package: LLD.Concept_And_Coding.SOLID.Open_Closed.Bad
- * <p>
- * User: piyushbajaj
- * Date: 13/01/23
- * Time: 6:03 pm
  * <p>
  * Open for extension but closed for modification
  * <p>

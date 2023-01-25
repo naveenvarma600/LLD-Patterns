@@ -1,8 +1,6 @@
 package LLD.OOPBasics.Encapsulation;
 
-/**
- * Created by bajajp on 24 Jun, 2022
- */
+
 public class Encapsulate {
     // private variables declared
     // these can only be accessed by

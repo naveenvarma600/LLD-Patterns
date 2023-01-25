@@ -2,14 +2,7 @@ package LLD.Educative.BuilderPattern;
 
 import LLD.F16;
 
-/**
- * Project: DS_Algo
- * Package: LLD.Educative.BuilderPattern
- * <p>
- * User: piyushbajaj
- * Date: 14/12/22
- * Time: 7:24 pm
- */
+
 public class F16Builder extends AircraftBuilder {
     F16 f16;
 

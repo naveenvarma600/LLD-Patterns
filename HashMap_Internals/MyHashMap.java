@@ -3,14 +3,7 @@ package LLD.Concept_And_Coding.HashMap_Internals;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- * Project: DS_Algo
- * Package: LLD.Concept_And_Coding.HashMap_Internals
- * <p>
- * User: piyushbajaj
- * Date: 20/01/23
- * Time: 1:23 pm
- */
+
 @Getter
 @Setter
 public class MyHashMap<K, V> {

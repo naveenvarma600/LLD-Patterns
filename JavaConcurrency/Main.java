@@ -1,13 +1,6 @@
 package LLD.JavaConcurrency;
 
-/**
- * Project: DS_Algo
- * Package: LLD.JavaConcurrency
- * <p>
- * User: piyushbajaj
- * Date: 19/01/23
- * Time: 11:39 pm
- */
+
 public class Main {
     public static void main(String[] args) {
         final State state = new State(PrinterType.ODD);

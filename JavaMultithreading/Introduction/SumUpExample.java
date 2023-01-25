@@ -1,13 +1,6 @@
 package LLD.Educative.JavaMultithreading.Introduction;
 
-/**
- * Project: DS_Algo
- * Package: LLD.Educative.JavaMultithreading.Introduction
- * <p>
- * User: piyushbajaj
- * Date: 19/01/23
- * Time: 12:21 pm
- */
+
 public class SumUpExample {
     long startRange;
     long endRange;
